@@ -1,6 +1,6 @@
 # Software GP — Frontend & Backend
 
-Graduation-project codebase containing a Node.js backend and two client apps (a website and a mobile app).
+A software project with a Node.js backend and two client apps: a website and a mobile app.
 
 ## Structure
 
